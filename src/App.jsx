@@ -46,8 +46,6 @@ const App = () => {
   return (
     <div>
      <Section1 data={data}/>
-
-     <Section2/>
     </div>
   )
 }
